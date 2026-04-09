@@ -1,5 +1,7 @@
 def greet(name):
- print(f"Hello, {name}!")
-greet("World")
-def SUMMA(a,b):  
+    print(f"Hello, {name}!")
+
+def SUMMA(a,b):
     return a+b
+
+greet("World")
